@@ -1,0 +1,25 @@
+{
+  "name": "course-selling-app",
+  "version": "1.0.0",
+  "description": "- initialize a new Node.js project - Add Express, jsonwebtoken to it as a dependency - create index.js - Add route skeleton for user login , signup , purchase a course , see course - Add routes for admin login , admin signup , create a course , delete a course, add course content - Add middlewares for user and admin auth  - Add a databases (mongodb), use .env to store the database connection string - Define the schema for User , Admin , Course , Purchase - Complete the routes for user login, signup , purchase a course , see course (Extra points - Use express routing to better structure your routes) - create the frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/githubtanush/Course---Selling---app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/githubtanush/Course---Selling---app/issues"
+  },
+  "homepage": "https://github.com/githubtanush/Course---Selling---app#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.16.0"
+  }
+}
