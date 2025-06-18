@@ -1,7 +1,7 @@
 ## create a course selling app
 
 - initialize a new Node.js project
-- Add Express, jsonwebtoken to it as a dependency
+- Add Express, jsonwebtoken , mongoose to it as a dependency
 - create index.js
 - Add route skeleton for user login , signup , purchase a course , sees all courses, sees the purchased courses course
 - Add routes for admin login , admin signup , create a course , delete a course, add course content
